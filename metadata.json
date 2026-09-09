@@ -1,0 +1,6 @@
+{
+  "name": "Función de Distribución Acumulada - Variable Aleatoria Continua",
+  "description": "Herramienta interactiva y visual para comprender la función de densidad y la distribución acumulada de una variable aleatoria continua mediante el tiempo de respuesta de un servidor web.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
